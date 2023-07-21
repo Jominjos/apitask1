@@ -1,0 +1,22 @@
+html, body{
+    margin:0px 20px;
+    padding: 0;
+color: black;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;}
+
+
+#header{
+   font-size: 8vh;
+    text-align: center;
+    background-color: rgb(245, 140, 19);
+    margin: 0;
+    padding: 30px;
+    width: 90vw;
+}
+#isroimg{
+    width:40%;
+    height: auto;
+}
